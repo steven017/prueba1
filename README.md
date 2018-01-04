@@ -1,6 +1,4 @@
 # prueba1
 probando la creacion de un repositorio
 
-segunda edición
-
-cambio desde mac
+segunda desde mac con una rama sacada de la edicion 2
